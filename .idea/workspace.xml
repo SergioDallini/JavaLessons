@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51b98c01-7586-44f0-a6ac-41c91422c51a" name="Changes" comment="2 new">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaLessons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlishevStudy/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlishevStudy/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator/CalcWind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator/RimNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dEight/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dEight/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dEight/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dEleven/Courier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dEleven/Picker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dEleven/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dEleven/WareHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dEleven/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dFive/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dFive/Motorbike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dFive/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dFive/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dFour/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dFour/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dFour/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dFour/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dNine/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dNine/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dNine/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dNine/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dNine/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dNine/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dNine/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dNine/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dNine/TestFigures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dNine/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dOne/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dOne/dFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dOne/dTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dSeven/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dSeven/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dSeven/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dSeven/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dSix/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dSix/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dSix/Motorbike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dSix/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dSix/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dSix/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dSix/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dSix/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dThree/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dThree/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dThree/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dTwelve/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dTwelve/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dTwelve/Task3/MusicBand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dTwelve/Task3/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dTwo/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dTwo/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dTwo/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dTwo/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EAbXi4COHhMj028gqLqcw7GCTb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "F:/Java/JavaLessons",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Java\JavaLessons\src\dSix" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Java\JavaLessons" />
+      <recent name="G:\Java\JavaLessons\src\AlishevStudy" />
+      <recent name="G:\Java\JavaLessons\src" />
+      <recent name="G:\Java\JavaLessons\out" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="rimNum" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dEight" />
+      <recent name="dSeven" />
+      <recent name="dSix" />
+      <recent name="rimNum" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task3">
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dTwelve.Task2" />
+      <module name="JavaLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dTwelve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dTwelve.Task3.Task3" />
+      <module name="JavaLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dTwelve.Task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlishevStudy.Test1" />
+      <module name="JavaLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AlishevStudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlishevStudy.Test2" />
+      <module name="JavaLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AlishevStudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dTwelve.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dTwelve.Task1" />
+      <module name="JavaLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dTwelve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.dTwelve.Task1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51b98c01-7586-44f0-a6ac-41c91422c51a" name="Changes" comment="" />
+      <created>1662041382000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662041382000</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1 new" />
+    <MESSAGE value="2 new" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 new" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaLessons$dEleven_Task1.ic" NAME="dEleven.Task1 Coverage Results" MODIFIED="1663487534149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>dEleven.*</FILTER>
+    </SUITE>
+  </component>
+</project>
