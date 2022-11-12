@@ -10,6 +10,7 @@ public class Task3 {
     public static void main(String[] args) {
         List<MusicBand> listBand = new ArrayList<>();
         List<MusicBand> listBand2000 = new ArrayList<>();
+        List<MusicBand> newBands = null;
         for (int i = 0; i < 10; i++) {
             String name = "band";
             listBand.add(new MusicBand(name+i, 1980 + (int)(Math.random()*40)));
@@ -39,6 +40,11 @@ public class Task3 {
                 addNewBand(ans, listBand);
                 printMembers(listBand);
             }
+            System.out.println("-------///////////////--------------///////////-------------//////////-");
+            System.out.println("Moved groupP");
+            printMembers(moveToNewGroup(listBand2000));
+            System.out.println("-------///////////////--------------///////////-------------//////////-");
+            printMembers(listBand2000);
         }
     }
     public static List<MusicBand> groupsAfter2000(List<MusicBand> bands){
@@ -51,12 +57,22 @@ public class Task3 {
         return list2000;
     }
 
-      public static void addNewBand(String inp, List<MusicBand> bands) {
+      public static List<MusicBand> addNewBand(String inp, List<MusicBand> bands) {
         String[] mass = inp.split(";");
         String name = mass[0].trim();
         int year = Integer.parseInt(mass[1].trim());
           bands.add(new MusicBand(name, year));
+          return bands;
     }
+      public static List<MusicBand> moveToNewGroup(List<MusicBand> bands){
+        List<MusicBand> newBands = new ArrayList<>();
+          for (MusicBand item: bands) {
+              newBands.add(item);
+          }
+          bands.clear();
+        return newBands;
+      }
+
 
       public static void printMembers(List<MusicBand> bands){
           for (MusicBand band : bands) {
